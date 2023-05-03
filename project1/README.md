@@ -46,7 +46,7 @@ Note: This program requires Python 3.x to be installed on your machine. If you d
 
                     pip install -r requirements.txt
 
-- Once the installation is complete, run the program by entering the following command or run it by pressing the play button:
+- Once the installation is complete, run the program by entering the following command or run it manually:
 
                      python finance_calculators.py
 
