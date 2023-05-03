@@ -1,13 +1,16 @@
 # Summary
 
-This program offers two financial calculators for the user: investment and home loan. 
-- It imports necessary libraries and modules and uses time.sleep() method for better user experience. 
-- A menu is printed to explain the options available. 
-- Messages are printed using a for loop method that prints each letter for each message in sequence. 
-- A while loop is used to handle incorrect input. 
-- If the user selects investment, the program calculates potential returns based on the initial investment amount, expected rate of return, and investment period. 
-- If the user selects home loan, the program calculates monthly repayments based on loaned amount, interest rate, and mortgage duration. 
-- The program prompts the user to enter the required information for each calculator, and outputs the calculated results.
+This program offers two financial calculators for the user: investment and home loan.
+
+# Table of contents
+
+1. It imports necessary libraries and modules and uses time.sleep() method for better user experience. 
+2. A menu is printed to explain the options available. 
+3. Messages are printed using a for loop method that prints each letter for each message in sequence. 
+4. A while loop is used to handle incorrect input. 
+5. If the user selects investment, the program calculates potential returns based on the initial investment amount, expected rate of return, and investment period. 
+6. If the user selects home loan, the program calculates monthly repayments based on loaned amount, interest rate, and mortgage duration. 
+7. The program prompts the user to enter the required information for each calculator, and outputs the calculated results.
 
 # Installation process
 
