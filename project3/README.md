@@ -57,7 +57,9 @@ To view or modify a PDF file stored on GitHub, you will need to first download t
 Once you have downloaded the PDF file, you can use any PDF viewer/editor software to open and modify the document. Here are some popular options:
 
 - Adobe Acrobat Reader DC: This is a free PDF viewer and editor that can be downloaded from the Adobe website. It is available for both Windows and Mac.
+
 - Foxit Reader: This is a free PDF viewer that is available for Windows and Mac. It also includes basic editing capabilities.
+
 - Preview: This is the default PDF viewer for Mac computers. It includes basic editing capabilities as well.
 
 To install any of these programs, you can visit their respective websites and follow the instructions provided. For example, to install Adobe Acrobat Reader DC, you can go to the Adobe website and click the "Download Acrobat Reader" button. This will initiate the download and installation process.
