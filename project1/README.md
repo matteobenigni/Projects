@@ -1,4 +1,4 @@
-# finance_calculators.py
+# Summary
 
 This program offers two financial calculators for the user: investment and home loan. 
 - It imports necessary libraries and modules and uses time.sleep() method for better user experience. 
@@ -10,6 +10,26 @@ This program offers two financial calculators for the user: investment and home 
 - The program prompts the user to enter the required information for each calculator, and outputs the calculated results.
 
 # Installation process
+
+- Clone the repository to your local machine using the following commmand on your local machine using gitbash:
+
+        git clone https://github.com/your-username/your-repo.git
+
+- To inspect, modify or extend the functionality of the program, open the source code file in a program editing tool such as Visual Studio Code.
+
+- Open the terminal and install the required dependencies by running 
+
+        pip install -r requirements.txt
+
+- Run the program.
+
+- Follow the prompts and enter the required inputs to calculate the investment return or home loan repayments.
+
+- he program will display the results on the terminal.
+
+Note: This program requires Python 3.x to be installed on your machine. If you don't have Python installed, you can download it from the official website: https://www.python.org/downloads/
+
+# Usage
 
 - Ensure that you have Python 3 installed on your computer. You can download it from the official website: https://www.python.org/downloads/
 
@@ -29,25 +49,6 @@ This program offers two financial calculators for the user: investment and home 
 
 - The program will then launch! You should now be able to use the program to calculate your financial needs.
 
-# Usage
-
-- Clone the repository to your local machine using the following commmand on your local machine using gitbash:
-
-        git clone https://github.com/your-username/your-repo.git
-
-- To inspect, modify or extend the functionality of the program, open the source code file in a program editing tool such as Visual Studio Code.
-
-- Open the terminal and install the required dependencies by running 
-
-        pip install -r requirements.txt
-
-- Run the program.
-
-- Follow the prompts and enter the required inputs to calculate the investment return or home loan repayments.
-
-- he program will display the results on the terminal.
-
-Note: This program requires Python 3.x to be installed on your machine. If you don't have Python installed, you can download it from the official website: https://www.python.org/downloads/
 
 # Credits Section
 
