@@ -1,6 +1,7 @@
-# finalCapstone
+# Projects
 
-This file provides an overview of some of the completed projects during my studies at HyperionDev Data Science Bootcamp, with a brief description of each folder:
+This file provides an overview of some of the completed projects during my studies at HyperionDev Data Science Bootcamp and more (coming soon..) with a brief 
+description of what's in each folder:
 
 - Project 1 (finance_calculators.py) involves basic math skills and showcases general Python programming knowledge, allowing users to choose between investment 
 and loan mortgage calculations.
